@@ -1,6 +1,6 @@
 # Terraform Sample Configuration with AWS
 
-This repo contains Terraform configuration, which will download the Terraform Module from my other repo: [Terraform AWS Instance](https://github.com/51r/terraform_aws_instance) and will configure two modules, that will create two instances in two different regions defined in provider blocks.
+This repo contains Terraform configuration, which will download the Terraform Module from my other repo: [Terraform AWS Instance](https://github.com/51r/terraform_aws_instance) and will configure two modules, that will create two instances in two different regions defined in provider blocks as aliases.
 
 # Prerequisite
 You need to have [Terraform CLI](https://learn.hashicorp.com/tutorials/terraform/install-cli) installed on you workstation. 
